@@ -321,10 +321,12 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 
 
 
-
 /*    Services    */
 
+
+
 .services{
+  background: #FFFFFF;
 	padding: 140px 0;
 }
 
