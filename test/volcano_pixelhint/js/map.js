@@ -1,9 +1,9 @@
-var map_wrapper = 'map_container';	
-var longitude = 45.124099;
-var latitude = -123.113634;
+var map_wrapper = 'map_container';
+var longitude = 45.186606;
+var latitude = 5.763819;
 var bubble_content =	"<p class='map_contacts'>" +
 						"<span>Address : </span>" +
-						"550 Hershell Hollow Road Johnson City, TN 37615" +
+						"25 rue des glairons, saint martin d'hères 38400" +
 						"</p>";
 
 
@@ -17,7 +17,7 @@ function initialize() {
 		mapTypeId: google.maps.MapTypeId.ROADMAP,
 		mapTypeControl: false,
 		streetViewControl:false,
-		scrollwheel : false,
+		scrollwheel : true,
 		zoomControlOptions: {
 	      style: google.maps.ZoomControlStyle.SMALL
 	    }
