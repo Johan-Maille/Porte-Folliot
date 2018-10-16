@@ -17,7 +17,7 @@ function initialize() {
 		mapTypeId: google.maps.MapTypeId.ROADMAP,
 		mapTypeControl: false,
 		streetViewControl:false,
-		scrollwheel : true,
+		scrollwheel : false,
 		zoomControlOptions: {
 	      style: google.maps.ZoomControlStyle.SMALL
 	    }

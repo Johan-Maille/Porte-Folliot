@@ -1,4 +1,4 @@
-/*   
+/*
     *****************************************
 
 
@@ -9,7 +9,7 @@
     - Services
     - Fancy Button
     - Quote
-    - Testimonials
+    - Parcour
     - Call To Action
     - Google Map
     - Footer
@@ -528,15 +528,15 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 
 
 
-/*    Testimonials    */
+/*    Parcour    */
 
-.testimonials{
+.Parcour{
 	width: 100%;
 	background: #ffffff;
 	padding: 140px 0;
 }
 
-.testimonials .tesimonial{
+.Parcour .tesimonial{
 	max-width: 670px;
 	height: auto;
 	margin: 0 auto;
@@ -552,13 +552,13 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 }
 
 
-.testimonials .name,
-.testimonials .author{
+.Parcour .name,
+.Parcour .author{
 	display: block;
 }
 
 
-.testimonials .name{
+.Parcour .name{
 	color: #2c2c2c;
 	font-family: "raleway-bold", Helvetica, Arial, sans-serif;
 	font-size: 18px;
@@ -567,7 +567,7 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 	margin: 30px 0 70px 0;
 }
 
-.testimonials p{
+.Parcour p{
 	color: #5b5a5a;
 	font-family: "raleway-regular", Helvetica, Arial, sans-serif;
 	font-size: 16px;
@@ -575,7 +575,7 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 	margin: 0;
 }
 
-.testimonials .author{
+.Parcour .author{
 	color: #2c2c2c;
 	font-family: "raleway-semibold", Helvetica, Arial, sans-serif;
 	font-size: 14px;
@@ -584,7 +584,7 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 }
 
 
-.testimonials .pagination{
+.Parcour .pagination{
 	display: block;
 	text-align: center;
 	list-style: none;
@@ -593,7 +593,7 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 }
 
 
-.testimonials .pagination a{
+.Parcour .pagination a{
 	text-decoration: none;
 	display: inline-block;
 	width: 10px;
@@ -608,15 +608,15 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 	        transition:all .2s linear;
 }
 
-.testimonials .pagination a:last-child{
+.Parcour .pagination a:last-child{
 	margin-right: 0;
 }
 
-.testimonials .pagination a.selected{
+.Parcour .pagination a.selected{
 	background: #c5c5c5;
 }
 
-.testimonials ul.slick-dots{
+.Parcour ul.slick-dots{
 	display: block;
 	text-align: center;
 	list-style: none;
@@ -624,12 +624,12 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 	padding: 0;
 }
 
-.testimonials ul.slick-dots li,
+.Parcour ul.slick-dots li,
 .slick-slide img{
 	display: inline-block;
 }
 
-.testimonials ul.slick-dots li a{
+.Parcour ul.slick-dots li a{
 	text-decoration: none;
 	display: inline-block;
 	width: 10px;
@@ -644,11 +644,11 @@ header .top-bar-section li:not(.has-form) a:not(.button):hover{
 	        transition:all .2s linear;
 }
 
-.testimonials ul.slick-dots li:last-child a{
+.Parcour ul.slick-dots li:last-child a{
 	margin-right: 0;
 }
 
-.testimonials ul.slick-dots li.slick-active a{
+.Parcour ul.slick-dots li.slick-active a{
 	background: #c5c5c5;
 }
 
