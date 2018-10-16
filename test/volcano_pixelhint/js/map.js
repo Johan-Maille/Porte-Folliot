@@ -10,6 +10,7 @@ var bubble_content =	"<p class='map_contacts'>" +
 
 
 
+
 function initialize() {
 	var mapOptions = {
 		zoom: 13,
